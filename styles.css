@@ -16,7 +16,12 @@ color:darkslategray;
     margin-top:0px;
 }
 .collage{
-    height:490px;
+    height:500px;
+    padding:30px;
+    align-self:center;
+}
+.collage-large{
+    height:450px;
     padding:30px;
     align-self:center;
 }
